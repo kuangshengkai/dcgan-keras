@@ -20,7 +20,7 @@ The script is implemented in Python3 and tested on v3.5 & v3.6. Besides keras, n
 
 Also, you need to prepared your own training dataset .jpg images under './faces' directory, and created a directory of './images' for generation output, if there is none.
 
-After all dependencies are prepared, just run script:
+After all dependencies are prepared, just run the script:
 
 ```bash
 python3 ./dcgan.py
