@@ -9,7 +9,6 @@ This model processes training avatar files with size of 96x96 under the director
 Generated samples are shown below, trained from more than 50k comic avatar images and generated on epoch 70000 & 71000:
 
 ![epoch-70000](images/70000.png)
-
 ![epoch-71000](images/71000.png)
 
 The raw training set is not provided in this repository, though you may replace it with your own images placing under the directory of './faces/*.jpg' with size of 96x96, or your own size with replacement of the ***img_rows*** & ***img_cols*** accordingly in the source code.
